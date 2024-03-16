@@ -1,0 +1,9 @@
+<div class="filter m-10">
+    <div class="flex-fill">
+        <input class="search-input" placeholder="Search..." #searchInput />
+        <button class="btn btn-filter" (click)="searchBy()">Search</button>
+    </div>
+    <button class="btn btn-filter" (click)="sortBy('downloadSpeed', sortDirection)">Sort by Download Speed</button>
+    <button class="btn btn-filter" (click)="sortBy('uploadSpeed', sortDirection)">Sort by Upload Speed</button>
+    <button class="btn btn-filter" (click)="sortBy('price', sortDirection)">Sort by Price</button>
+</div>

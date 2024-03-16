@@ -1,0 +1,62 @@
+[
+    {
+       "id":1,
+       "name":"Tarif Name 1",
+       "downloadSpeed":12,
+       "uploadSpeed":6,
+       "price":12345,
+       "benefits":[
+          "Tarif Benefit 1",
+          "Tarif Benefit 2",
+          "Tarif Benefit 3"
+       ]
+    },
+    {
+       "id":2,
+       "name":"Tarif Name 2",
+       "downloadSpeed":14,
+       "uploadSpeed":7,
+       "price":12346,
+       "benefits":[
+          "Tarif Benefit 1",
+          "Tarif Benefit 2",
+          "Tarif Benefit 3"
+       ]
+    },
+    {
+       "id":3,
+       "name":"Tarif Name 3",
+       "downloadSpeed":20,
+       "uploadSpeed":10,
+       "price":12347,
+       "benefits":[
+          "Tarif Benefit 1",
+          "Tarif Benefit 2",
+          "Tarif Benefit 3"
+       ]
+    },
+    {
+        "id":4,
+        "name":"Tarif Name 4",
+        "downloadSpeed":10,
+        "uploadSpeed":5,
+        "price":12349,
+        "benefits":[
+           "Tarif Benefit 1",
+           "Tarif Benefit 2",
+           "Tarif Benefit 3"
+        ]
+     },
+     {
+        "id":5,
+        "name":"Tarif Name 5",
+        "downloadSpeed":50,
+        "uploadSpeed":40,
+        "price":340,
+        "benefits":[
+           "Tarif Benefit 1",
+           "Tarif Benefit 2",
+           "Tarif Benefit 3"
+        ]
+     }
+ ]
